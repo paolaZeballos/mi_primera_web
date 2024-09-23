@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&display=swap');
+
+article {
+    font-family: "Crete Round";
+}
+
+a {
+    text-decoration: none;
+    margin-left: 10px;
+    text-transform: capitalize;
+    color: cadetblue;
+}
+a:hover {color: crimson;}
+
+p {
+    font-size: 18px;
+    justify-content: stretch;
+}
+
+div button {
+    border: none;
+    background-color: chartreuse;
+    font-size: 18px;
+    width: 400px;
+    height: 60px;
+    padding: 5px;
+}
+
+
+
+button {
+    font-weight: bold;
+    border-radius: 80px;
+    background-color: aqua;
+    font-size: 18px;
+    width: 400px;
+    height: 60px;
+    padding: 5px;
+}
+
+body { 
+    color: rgb(13, 13, 88);
+    margin: 0;
+    padding: 0;
+    font-family: tahoma;
+}
+
+main {
+    margin-bottom: 80px;
+    margin-left: 120px;
+}
+
+h1 {
+    width: 500px;
+    font-family: helvetica;
+    text-transform: uppercase;
+    justify-content: space-around;
+}
+
+h3 {
+    font-size: 60px;
+    font-family: lucida sans;
+}
+
+nav { text-decoration: none;
+    font-size: 40px;
+}
+
+footer {
+    background-color: black;
+    color: chocolate;
+    width: 100%;
+    height: 350px;
+    padding: 20px;
+    text-align: center;
+}
